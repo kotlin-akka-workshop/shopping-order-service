@@ -1,3 +1,8 @@
+
+## Run the infra
+
+The infrastructure must be started from the docker compose in provided `shopping-cart-service`
+
 ## Running the sample code
 
 1. Start a node:
