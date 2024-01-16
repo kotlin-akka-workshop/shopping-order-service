@@ -1,7 +1,7 @@
 
 ## Run the infra
 
-The infrastructure must be started from the docker compose in provided `shopping-cart-service`
+The infrastructure must be started from the docker compose provided in `shopping-cart-service`
 
 ## Running the sample code
 
