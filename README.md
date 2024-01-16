@@ -8,7 +8,7 @@ The infrastructure must be started from the docker compose in provided `shopping
 1. Start a node:
 
     ```
-    mvn compile exec:exec -DAPP_CONFIG=local1.conf
+    ./mvnw compile exec:exec -DAPP_CONFIG=local1.conf
     ```
 
 2. Check for service readiness
